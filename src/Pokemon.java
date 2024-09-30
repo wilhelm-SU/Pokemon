@@ -1,5 +1,5 @@
 
-public class Pokemon implements CompareSpeed, CanAttack
+public abstract class Pokemon implements CompareSpeed, CanAttack
 {
    private int hp;
    private int attack;
